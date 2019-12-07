@@ -1,4 +1,4 @@
-# data_analysis_case_studies
+# Data Analysis Case Studies
 
 ## Descirption
 
